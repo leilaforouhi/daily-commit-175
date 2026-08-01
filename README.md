@@ -1,4 +1,4 @@
-def merge_sorted_lists(first, secon):
+def merge_sorted_lists(first, seconD):
     return sorted(first + second)
 
 
